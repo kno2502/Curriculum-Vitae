@@ -5,7 +5,6 @@
 |key|value|
 |---|-----|
 |Name|<ruby><rb>川野 真祐<rb><rt>かわの しんすけ</rt></ruby>|
-|Blog|[そのほうこうにはだれもいない](https://2502.net/)|
 |Twitter|[@kno2502](https://twitter.com/kno2502)|
 |Qiita|[kno2502](https://qiita.com/kno2502)|
 
