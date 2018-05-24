@@ -44,7 +44,7 @@
   - クレジットカードを含む決済システム
   - 物流システム
 - バックオフィス
-  - 会計システム (SuperStream CORE)
+  - 会計システム (SuperStream CORE)
 - AWS, Azure, G Suite, Slack, GitHub 管理者
 - ベアメタルサーバーの選定・調達・構築・運用
 - プライベートクラウドの構築(Xen, VMware)
