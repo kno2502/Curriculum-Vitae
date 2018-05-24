@@ -53,7 +53,7 @@
 - Debian GNU/Linux, Ubuntu Linux
 - Docker
 - Apache, Nginx
-  - Let's Encrypt
+  - Let's Encrypt
 - Postfix
 - Samba
 - ZFS (Solaris, FreeBSD, ZFS on Linux)
