@@ -18,19 +18,16 @@
 - Ruby on Rails
 - PHP
 - SQL
+  - Oracle (8iから10g)
+  - PostgreSQL
+  - MySQL
+  - SQLite
+  - SQL Server
 - shell script
 
 他、問題解決に適しているのならばなんでも使う。
 
-### データベース
-
-- Oracle (8iから10g)
-- PostgreSQL
-- MySQL
-- SQLite
-- SQL Server
-
-### 語学
+### 自然言語
 
 - 日本語
   - ネイティブ
